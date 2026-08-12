@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^FtUy4GrX5/?$ FtUy4GrX5.html [L]
